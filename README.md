@@ -36,14 +36,8 @@ Environment
 
 Jupyter Notebook, Google Colab
 
-📊 Results at a Glance
+<img width="978" height="326" alt="image" src="https://github.com/user-attachments/assets/c935d5a8-32a9-4db2-aad2-ec3797450004" />
 
-Model             Accuracy         MAE           RMSE
-
-XGBoost             91%            2.1            3.8
-Random Forest       89%            2.8            4.3
-SVM                 85%            3.5            5.1
-Decision Tree       82%            4.1            6.2
 
 📂 Repository Assets
 
